@@ -1,6 +1,6 @@
 /**
  * CloudArcade Platform Integration Layer
- * Handles all communication between the game and the CloudArcade parent platform
+ * Handles ALL communication between the game and the CloudArcade parent platform
  */
 
 import type {
